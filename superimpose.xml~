@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements px2unit="0.00504844" samplingRate="15" unit="m">
+    <origin x="0" y="0" /> 
+    <segment label="segmento 0">
+        <p1 x="31" y="76"/>
+        <p2 x="225" y="116"/>
+    </segment>
+    <tracker label="tracker 0" framestart="44">
+        <center x="232" y="162"/>
+        <path>
+            <p x="35" y="182"/>
+            <p x="35" y="182"/>
+            <p x="59" y="162"/>
+            <p x="79" y="185"/>
+            <p x="100" y="183"/>
+            <p x="117" y="166"/>
+            <p x="138" y="162"/>
+            <p x="162" y="169"/>
+            <p x="183" y="181"/>
+            <p x="202" y="183"/>
+            <p x="223" y="180"/>
+            <p x="232" y="162"/>
+        </path>
+    </tracker>
+</elements>
